@@ -1,11 +1,13 @@
 
 ---
 date: "2020-03-01"
-image:
-title: Who we are?
+image: on_the_road.jpeg
+title: About the blog
 ---
 
-# Andrés
+The story of how two development economists based out of Madrid reconsider their priorities after living under strict lockdown for almost 100 days in a rural area in northern Spain. An attempt to make the so-called ‘nomad’ lifestyle work while calculating standard errors, *ggplotting*, and ultimately promoting evidence-based policymaking.
+
+# [Andrés](https://www.linkedin.com/in/andr%C3%A9s-arau-017b1127/)
 
 <img src = '/images/andres.jpeg' style = "width:50% ; display: block;
   margin-left: auto;
@@ -15,9 +17,9 @@ title: Who we are?
 
 **Ciudad de México, México. 1982**
 
-Into Data Science and MEL systems. Cheers for Pumas. Native to La Campestre Churubusco, he would die for some chicharrón prensado while he codes. 
+Into Data Science and MEL systems. Cheers for Pumas. Native to La Campestre Churubusco, he would die for some chicharrón prensado while he codes. [website](http://andresarau.com/)
 
-# Martina
+# [Martina](https://www.linkedin.com/in/martina-garcia-aisa-88459149/)
 <img src = '/images/martina.jpg' style = "width:50% ; display: block;
   margin-left: auto;
   margin-right: auto; !important; ">
