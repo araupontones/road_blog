@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data science on the road</title>
+    <link>/</link>
+    <description>Recent content on Data science on the road</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 25 Aug 2019 00:52:59 +0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uncastillo, Aragón</title>
+      <link>/post/emoji-support/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/emoji-support/</guid>
+      <description>Uncastillo   **Poblacion: 450 habs **
+  **Confirmed cases in Spain: X **
+  texto aqui
+fotos
+y grafica covid</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>/about/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Andrés Ciudad de México, México. 1982
+Into Data Science and MEL systems. Cheers for Pumas. Native to La Campestre Churubusco, he would die for some chicharrón prensado while he codes.
+Martina Zaragoza, España. 1988
+All about Impact Evaluation and statistical analysis. Trekking, skiing and yoga as second best. Aragón runs through her veins.
+Silvio Poccheiná, México. 2015
+Walking, eating, sleeping, repeat. Cat and lizard chaser. From the plains of Yucatán para el mundo.</description>
+    </item>
+    
+    <item>
+      <title>Who we are?</title>
+      <link>/post/2020-09-12-who-we-are/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-12-who-we-are/</guid>
+      <description>AndrésCiudad de México, México. 1982
+Into Data Science and MEL systems. Cheers for Pumas. Native to La Campestre Churubusco, he would die for some chicharrón prensado while he codes.
+MartinaZaragoza, España. 1988
+All about Impact Evaluation and statistical analysis. Trekking, skiing and yoga as second best. Aragón runs through her veins.
+SilvioPoccheiná, México. 2015
+Walking, eating, sleeping, repeat. Cat and lizard chaser. From the plains of Yucatán para el mundo.</description>
+    </item>
+    
+  </channel>
+</rss>
