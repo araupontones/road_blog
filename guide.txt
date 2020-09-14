@@ -1,0 +1,15 @@
+theme:
+https://themes.gohugo.io/theme/newsroom/
+
+# How to?
+
+1) images: Store them in the static folder and call them use the path (without static)
+
+
+2) how to start a new entry?
+---
+author: Michael Henderson
+date: "2014-09-28"
+image: boy.jpg
+title: Creating a New Theme
+---
