@@ -591,7 +591,7 @@ aside h3 {
 .nav_bar {
   width: 100%;
   position: relative;
-  background-color: var(--blue_title) !important;
+  color: var(--blue_title) !important;
 }
 
 .nav_bar-wrap {
@@ -607,7 +607,7 @@ aside h3 {
 .nav_bar, .nav_bar::after, .nav_bar::before {
   padding: 1px;
   border-radius: 2px;
-  background-color: var(--blue_title) !important;
+  background-color: var(--text);
 }
 
 .nav_bar::after, .nav_bar::before {
