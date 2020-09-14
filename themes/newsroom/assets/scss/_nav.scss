@@ -7,6 +7,7 @@
   &_bar {
     width: 100%;
     position: relative;
+    background-color: var(--blue_title) !important;
     &-wrap {
       width: 1.8rem;
       height: 1.8rem;
@@ -21,7 +22,7 @@
     &::before {
       padding: 1px;
       border-radius: 2px;
-      background-color: var(--text);
+      background-color: var(--blue_title) !important;
     }
     &::after,
     &::before {
@@ -71,6 +72,7 @@
     font-size:2em !important;
     padding-top:0 !important;
     padding-bottom:0 !important;
+    color: var(--blue_title) !important;
   }
   &-close {
     display: flex;
@@ -134,5 +136,6 @@
   }
   &_item {
     text-transform: capitalize;
+    color: var(--blue_title) !important
   }
 }

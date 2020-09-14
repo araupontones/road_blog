@@ -535,7 +535,6 @@ aside h3 {
   grid-template-columns: 1fr 3rem;
   align-items: center;
   margin: 2rem 1.5rem 0;
-  color: var(--blue_title) !important;
 }
 
 .color_choice {
@@ -738,7 +737,6 @@ aside h3 {
 
 .nav_item {
   text-transform: capitalize;
-  color: var(--blue_title) !important;
 }
 
 .post {
@@ -1069,7 +1067,6 @@ aside h3 {
 
 .mb-1 {
   margin-bottom: 1.5rem;
-  margin-top: 30px;
 }
 
 .pt-2 {
@@ -1086,7 +1083,6 @@ aside h3 {
 
 .mb-2 {
   margin-bottom: 3rem;
-  margin-top: 30px;
 }
 
 .grid-2, .grid-3, .grid-4, .grid-auto, .grid-reverse {

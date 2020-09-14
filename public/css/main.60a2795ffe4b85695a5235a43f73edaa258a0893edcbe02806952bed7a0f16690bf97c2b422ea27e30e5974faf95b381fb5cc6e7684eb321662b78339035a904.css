@@ -535,7 +535,6 @@ aside h3 {
   grid-template-columns: 1fr 3rem;
   align-items: center;
   margin: 2rem 1.5rem 0;
-  color: var(--blue_title) !important;
 }
 
 .color_choice {

@@ -1,6 +1,10 @@
 {{ define "main" }}
+
 {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 <div class = 'wrap pt-2 mt-2'>
+  <p style = "font-size:125% !important; margin-top:30px !important">The story of how two development economists based out of Madrid reconsider their priorities after living under strict lockdown for almost 100 days in a rural area in northern Spain. An attempt to make the so-called ‘nomad’ lifestyle work while calculating standard errors, <i>ggplotting</i>, and ultimately promoting evidence-based policymaking.</p>
+  
+  
   {{- $paginator := .Paginate $pages -}}
   {{- $size := $paginator.PageSize }}
   {{- $scratch := newScratch }}
