@@ -54,7 +54,6 @@
   --font: 'Metropolis', sans-serif;
   --theme: #04a763;
   --ease: cubic-bezier(.19,1,.22,1);
-  --blue_title: #20639B;
 }
 
 :root[data-mode="dim"] {
@@ -591,7 +590,6 @@ aside h3 {
 .nav_bar {
   width: 100%;
   position: relative;
-  background-color: var(--blue_title) !important;
 }
 
 .nav_bar-wrap {
@@ -607,7 +605,7 @@ aside h3 {
 .nav_bar, .nav_bar::after, .nav_bar::before {
   padding: 1px;
   border-radius: 2px;
-  background-color: var(--blue_title) !important;
+  background-color: var(--text);
 }
 
 .nav_bar::after, .nav_bar::before {
@@ -663,7 +661,6 @@ aside h3 {
   font-size: 2em !important;
   padding-top: 0 !important;
   padding-bottom: 0 !important;
-  color: var(--blue_title) !important;
 }
 
 .nav-close {
