@@ -591,7 +591,7 @@ aside h3 {
 .nav_bar {
   width: 100%;
   position: relative;
-  background-color: var(--blue_title) !important;
+  color: var(--blue_title) !important;
 }
 
 .nav_bar-wrap {
@@ -607,7 +607,7 @@ aside h3 {
 .nav_bar, .nav_bar::after, .nav_bar::before {
   padding: 1px;
   border-radius: 2px;
-  background-color: var(--blue_title) !important;
+  background-color: var(--text);
 }
 
 .nav_bar::after, .nav_bar::before {
@@ -1067,7 +1067,6 @@ aside h3 {
 
 .mb-1 {
   margin-bottom: 1.5rem;
-  margin-top: 30px;
 }
 
 .pt-2 {
@@ -1084,7 +1083,6 @@ aside h3 {
 
 .mb-2 {
   margin-bottom: 3rem;
-  margin-top: 30px;
 }
 
 .grid-2, .grid-3, .grid-4, .grid-auto, .grid-reverse {

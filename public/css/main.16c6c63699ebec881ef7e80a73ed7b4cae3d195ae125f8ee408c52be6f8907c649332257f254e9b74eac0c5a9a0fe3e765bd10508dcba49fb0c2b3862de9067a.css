@@ -1062,12 +1062,11 @@ aside h3 {
 }
 
 .mt-1 {
-  margin-top: 1.5rem;
+  margin-top: 30px;
 }
 
 .mb-1 {
   margin-bottom: 1.5rem;
-  margin-top: 30px;
 }
 
 .pt-2 {
@@ -1079,12 +1078,11 @@ aside h3 {
 }
 
 .mt-2 {
-  margin-top: 3rem;
+  margin-top: 30px;
 }
 
 .mb-2 {
   margin-bottom: 3rem;
-  margin-top: 30px;
 }
 
 .grid-2, .grid-3, .grid-4, .grid-auto, .grid-reverse {
