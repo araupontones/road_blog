@@ -24,7 +24,7 @@ A decision had to be made: should we rush into Madrid before the state of alarm 
 
 During this time, work kept us extremely busy. May was the deadline to deliver the first Evaluation Report for <a href="https://www.ukpact.co.uk/">UK PACT</a> and the whole team was working around the clock. All the related in-country missions had been cancelled and replaced with <i>Microsoft Teams</i>-based meetings. Stakeholders were trained remotely, and primary data collected over the phone and consistenly entered into our online <a href="https://www.ukpactmel.com/">Results Management System</a>. We also worked on finalising the evaluation of the <a href="https://www.iaea.org/">International Atomic Energy Agency</a>'s Regional Cooperative Agreement for Research, Development and Training Related to Nuclear Science and Technology for Asia and the Pacific. 
 
-These months also helped Marti in her quest to get Andres into Ashtanga Yoga, and walking Silvio in the mountains became the most precious moment of the day. And little by little we ended up realising that getting back to the urban scene did not make sense just yet. We cancelled the rent of our flat in Madrid, packed up, and started a road trip that does not have an end date for now.
+These months also helped Marti in her quest to get Andrés into Ashtanga Yoga, and walking Silvio in the mountains became the most precious moment of the day. And little by little we ended up realising that getting back to the urban scene did not make sense just yet. We cancelled the rent of our flat in Madrid, packed up, and started a road trip that does not have an end date for now.
 
 <hr>
 
