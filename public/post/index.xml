@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Data science on the road</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pinheiro</title>
+      <link>/post/pinheiro/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pinheiro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Uncastillo, Aragón</title>
@@ -24,10 +33,10 @@
     
     <item>
       <title>About the blog</title>
-      <link>/post/2020-09-12-who-we-are/</link>
+      <link>/post/uncastillo/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-09-12-who-we-are/</guid>
+      <guid>/post/uncastillo/</guid>
       <description>The story of how two development economists based out of Madrid reconsider their priorities after living under strict lockdown for almost 100 days in a rural area in northern Spain. An attempt to make the so-called ‘nomad’ lifestyle work while calculating standard errors, ggplotting, and ultimately promoting evidence-based policymaking.
 AndrésCiudad de México, México. 1982
 Into Data Science and MEL systems. Cheers for Pumas. Native to La Campestre Churubusco, he would die for some chicharrón prensado while he codes.</description>

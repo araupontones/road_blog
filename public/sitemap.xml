@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/pinheiro/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,7 +28,7 @@
   </url>
   
   <url>
-    <loc>/post/2020-09-12-who-we-are/</loc>
+    <loc>/post/uncastillo/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
