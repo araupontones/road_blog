@@ -1,0 +1,23 @@
+---
+title: "Untitled"
+author: "Andrés Arau"
+date: "9/15/2020"
+output: html_document
+---
+
+
+<form action="https://formspree.io/mrgozkqn" method="POST">
+    <label>
+    Your Name:
+    <input type="text" name="name">
+  </label>
+  <label>
+    Your Email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Message:
+    <textarea name="message"></textarea>
+  </label>
+  <input type="submit" value="Send">
+</form>

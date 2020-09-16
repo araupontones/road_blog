@@ -1,0 +1,122 @@
+---
+title: "Say hi!"
+author: "Andrés Arau"
+date: "2020-03-14"
+---
+
+<head>
+
+
+<style>
+
+#form-container {
+background-color:white;
+padding:20px;
+
+}
+
+input, textarea {
+  width: 95%;
+  padding: 12px 20px;
+  margin: 8px 5px;
+  display: inline-block;
+  border: none;
+  border-bottom: 2px solid #B64D8B;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color:white;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+textarea {
+  height: 150px !important;
+}
+
+input:focus {
+  border: 2px solid #B64D8B !important;
+}
+
+textarea:focus {
+  border: 2px solid #B64D8B !important;
+}
+
+
+
+input[type=submit] {
+  width: 20%;
+  background-color: #3CBC8D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 40px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+ float: right;
+}
+
+
+input[type=submit]:hover {
+  background-color: #3CBC8D;
+}
+
+.form-label{
+  font-size: 180% !important;
+  color: #554D89 !important;
+
+}
+
+
+#form-container {
+    width: 90%;
+    border: none;
+    overflow: hidden; /* will contain if #first is longer than #second */
+}
+
+#first {
+    float:left;
+    overflow: hidden; /* if you don't want #second to wrap below #first */
+    width:40% ;
+    height: 100%; 
+}
+
+
+#second {
+    width: 60%;
+    float:right; /* add this */
+}
+
+</style>
+
+</head>
+
+<br>
+<br>
+
+
+<div id = "form-container">
+
+  
+
+
+<form action="https://formspree.io/mrgozkqn" method="POST">
+    <label class = "form-label">
+    Your Name:
+    <input type="text" name="name">
+  </label>
+  <label class = "form-label">
+    Your Email:
+    <input type="email" name="_replyto">
+  </label>
+  <label class = "form-label">
+    Message:
+    <textarea name="message"></textarea>
+  </label>
+  <input type="submit" value="Send">
+  <br>
+
+</form>
+
+
+</div>
