@@ -6,7 +6,8 @@
     <description>Recent content on Data science on the road</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +15,16 @@
     <item>
       <title>Pinheiro, Cinfães</title>
       <link>/post/pinheiro/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/pinheiro/</guid>
-      <description></description>
+      <description>Population: 7 inhabitants
+
+Confirmed COVID-19 cases in Spain when we got there: xxx
+
+
+
+A bit of a background here! Back in 2017, we were honoured to become part of the Monitoring, Evaluation, and Learning team for MUVA, an innovative programme aimed to improve access to the labour market for young women in Mozambique. The nature of the work in this project is extremely collaborative and requires constant communication with the local team (+ super fun trips to Maputo!</description>
     </item>
     
     <item>
@@ -28,7 +35,8 @@
       <guid>/post/emoji-support/</guid>
       <description>Population: 650 inhabitants
   Confirmed COVID-19 cases in Spain when we got there: 6,391
-  Knowing that the months ahead were packed with work-related travel, Marti was clear about her birthday present this year: a two-day skiing trip close to her home town and a birthday dinner with friends to close it off. We hit the slopes on March 11th, right when the debate about COVID-19 seemed to start heating up.</description>
+  
+Knowing that the months ahead were packed with work-related travel, Marti was clear about her birthday present this year: a two-day skiing trip close to her home town and a birthday dinner with friends to close it off. We hit the slopes on March 11th, right when the debate about COVID-19 seemed to start heating up.</description>
     </item>
     
     <item>
@@ -38,7 +46,8 @@
       
       <guid>/post/uncastillo/</guid>
       <description>The story of how two development economists based out of Madrid reconsider their priorities after living under strict lockdown for almost 100 days in a rural area in northern Spain. An attempt to make the so-called ‘nomad’ lifestyle work while calculating standard errors, ggplotting, and ultimately promoting evidence-based policymaking.
-AndrésCiudad de México, México. 1982
+Andrés
+Ciudad de México, México. 1982
 Into Data Science and MEL systems. Cheers for Pumas. Native to La Campestre Churubusco, he would die for some chicharrón prensado while he codes.</description>
     </item>
     
