@@ -1,8 +1,76 @@
 ---
 title: Pinheiro, Cinfães
 author: ''
-date: '2020-09-15'
+date: '2020-07-04'
 slug: pinheiro
 image: /Cinfaes/cinfaes.jpg
 ---
+* <b>Population:</b> 7 inhabitants
+
+* <b>Confirmed COVID-19 cases in Spain when we got there:</b> 250,545
+
+<hr>
+
+A bit of a background here! Back in 2017, we were honoured to become part of the Monitoring, Evaluation, and Learning team for <a href="https://muvamoz.co.mz/?lang=en">MUVA</a>, an innovative programme aimed to improve access to the labour market for young women in Mozambique. The nature of the work in this project is extremely collaborative and requires constant communication with the local team (+ super fun trips to Maputo!), so being able to properly communicate in Portuguese has always been the goal. We must say here that our colleagues are extremely understanding and patient with our 'portuñol' skills, but when the road trip idea started to take shape, we were clear about the next stop. 
+
+Portugal did extremely well in keeping COVID-19 under control, so they were particularly cautious about opening the border with Spain. The ban was officially lifted on July 1st, but we were ready: we made it to Pinheiro three days later. 
+
+Our time there gravitated around some key daily moments: i) fresh corn bread delivered home by home at 10.00am, ii) same procedure for fresh sardines at 12.00pm, and iii) quick visit to the local pond after work. We are not quite sure how much we improved our Portuguese, but our neighbours are still probably laughing at our random attempts to start a conversation. 
+
+Speaking of MUVA, this is probably the best place to congratulate the team for successfully organizing the annual Programme Reflection Week online, and with more than 20 attendees across three continents. A big shout as well to the Analytics Team at the <a href="https://gmdac.iom.int/">International Organization for Migration</a>, which Andrés is part of, for finalizing their study on the inclusion of Venezuelan refugees and migrants in Latin America.
+
+<hr>
+
+
+# COVID-19 tracker
+
+<!-- Styles and javascript for slideshows -->
+  <head>
+<link rel="stylesheet" href="/css/style_slideshow.css">
+</head>
+
+<script src="/javascripts/slide_show.js"></script>
+
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+<div class="mySlides fade hide">
+<div class="numbertext">1 / 2</div>
+<img src="/images/Uncastillo/chart_Uncastillo.png" style="width:100%">
+<div class="text">Uncastillo, Aragón </div>
+</div>
+
+<div class="mySlides fade">
+<div class="numbertext">2 / 2</div>
+<img src="/images/Cinfaes/chart_Pinheiro.png" style="width:100%">
+<div class="text">Pinheiro, Cinfaes</div>
+</div>
+
+  <!-- Next and previous buttons -->
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+</div>
+
+<hr> 
+
+
+  
+# Photo album
+
+Home deilvered sardihas!!
+<img src = '/images/Cinfaes/sardinas.jpeg'>
+
+Daily dip at the local pond. 
+<img src = '/images/Cinfaes/pond.jpg'>
+
+
 

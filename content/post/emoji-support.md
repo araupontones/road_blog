@@ -37,7 +37,8 @@ These months also helped Marti in her quest to get Andrés into Ashtanga Yoga, a
   margin-right: auto; !important; ">
   
   <hr> 
-  
+
+
 # Photo album
 
 It was winter when the strict lockdown began.
