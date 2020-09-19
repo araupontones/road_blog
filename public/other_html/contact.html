@@ -30,7 +30,7 @@
   background-color: white;
   margin-bottom:40px;
   text-align: center;
-  font-family: 'Metropolis', sans-serif;
+  font-family: 'Poppins', sans-serif;
    color: #20639B ;
    font-size: 2em !important
  }
@@ -84,7 +84,7 @@
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 130%;
+    font-size: 2em !important;
     font-family: 'Poppins', sans-serif;
     
   }
@@ -114,6 +114,18 @@
   input[type = "text"], input[type="email"], textarea{
     padding: 12px 30px;
   }
+  
+  ul{
+  font-size: 4em !important;
+  margin: 80px auto !important;
+    
+  }
+  
+  .form-label{
+    
+    font-size: 200%;
+    
+  }
 }
   
 </style>
@@ -134,8 +146,10 @@
   <div id="form-container" class="on-hover">
     <form action="https://formspree.io/mrgozkqn" method="POST">
       
-      <p class = "hi_intro"> One of the downsides of this nomad lifestyle is that we are far from friends, family and people we love.<br><br> You'll make us really happy if you write us to say hi!</p>
+      <p class = "hi_intro"> You'll make us really happy if you write to us to say hi!</p>
       
+      <hr>
+      <br>
       <label class = "form-label">
         Your Name:
         <input type="text" name="name" class="on-hover">
