@@ -18,7 +18,7 @@ title: Uncastillo, Aragón
 
 
 
-Knowing that the months ahead were packed with work-related travel, Marti was clear about her birthday present this year: a two-day skiing trip close to her home town and a birthday dinner with friends to close it off. We hit the slopes on March 11th, right when the debate about COVID-19 seemed to start heating up. Two days later, the sky resort was forced to close. We made to it to her family’s place, but decided to keep the celebration to the close ones at home. On March 14th, an strict lockdown of initially 15 days was announced.
+Knowing that the months ahead were packed with work-related travel, Marti was clear about her birthday present this year: a two-day skiing trip close to her home town and a birthday dinner with friends to close it off. We hit the slopes on March 11th, right when the debate about COVID-19 seemed to start heating up. Two days later, the ski resort was forced to close. We made to it to her family’s place, but decided to keep the celebration to the close ones at home. On March 14th, an strict lockdown of initially 15 days was announced.
 
 A decision had to be made: should we rush into Madrid before the state of alarm officially began, or should we just wait 15 days and get back home afterwards? Given the lower population density and the size of open green space around Uncastillo, we understood an strict confinement would be easier there. So we stayed. And 15 days turned into 100. 
 
