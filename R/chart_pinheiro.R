@@ -8,36 +8,31 @@ date_start = ymd("2020-07-04") #Date that the trip started to this location
 date_post = ymd("2020-09-19") #Date when you wrote the post
 
 
-casos_uncastillo = 6391
-fecha_uncastillo = ymd("2020-03-14")
-
-
-
-
+exit_folder = file.path(dir_charts, "Cinfaes")
 
 
 ##label chart -------------------------------------------------------------------------------------------
-label_dot = paste("Cases when we got to", location)
-label_dot2 = paste("Cases on", month(date_post,label = T, abbr = F), day(date_post))
+label_dot = paste("When we got to", location)
+label_dot2 = paste("On", month(date_post,label = T, abbr = F), day(date_post))
+label_dot_pas = "On previous stops"
 
 #File to export
-exfile = file.path(dir_charts,"Cinfaes",paste0("chart_",location,".png"))
+exfile = file.path(exit_folder,paste0("chart_",location,".png"))
 
 
 
-#Load data
+#LOAD AND CLEAN DATA ----------------------------------------------------------------------------------------
 
 data <- covid19()
 
-
-
+-
 #Clean data
 data_clean = data %>%
   rename(country = administrative_area_level_1) %>%
   filter(country == "Spain") %>%
   ungroup() %>%
   select(date, confirmed) %>%
-  mutate(before_start = date <= date_start)
+  mutate(before_got_here = date <= date_start) # TRUE if date is before the date we got to this location
 
 
 
@@ -50,28 +45,33 @@ casos_post = data_clean$confirmed[data_clean$date==date_post]
 
 ## data for dots in chart
 data_puntos = data_clean %>%
-  filter(date %in% c(date_start,date_post)) %>%
- mutate(before_start = factor(before_start,
-                              levels = c(TRUE, FALSE)))
+  ## keep relevant dates (when post is written, when we got to this place, and when we got to other places)
+  filter(date %in% c(date_start,date_post, fechas)) %>%
+ #create factor for plotting dots in the chart 
+  mutate(key_dates = factor(case_when(date %in% fechas ~ "other_stops",
+                                        date == date_start ~ "got_to_location",
+                                        date == date_post ~ "Post_was_written"),
+                            levels=c("other_stops", "got_to_location","Post_was_written" )
+                              )
+        )
 
 
 
 
+### Draw chart
 
-chart_for_blog 
-
-ggplot(data = data_clean,
+chart_for_blog = ggplot(data = data_clean,
                         aes(x = date,
                             y = confirmed)) +
   ## Line of cases before we got to town
   geom_line(data = data_clean %>%
-              filter(before_start == T),
+              filter(before_got_here == T),
             color = light_purple,
             size = 1.2
             ) +
 ##Line after
   geom_line(data = data_clean %>%
-              filter(before_start == F),
+              filter(before_got_here == F),
             color = grey,
             linetype = "dashed",
             size = 1.3)+
@@ -79,20 +79,25 @@ ggplot(data = data_clean,
     geom_point(data= data_puntos,
                aes(x = date,
                    y = confirmed,
-                   color = before_start),
+                   color = key_dates),
                size = 5,
     ) +
-  geom_point(aes(x = fecha_uncastillo ,
-                 y = casos_uncastillo),
-             size = 5,
-             color = light_purple) +
-  geom_label(aes(x = fecha_uncastillo,
-                y = casos_uncastillo,
-                label = "Uncastillo"),
-            nudge_x = 25) +
-  scale_color_manual(values = c(dark_purple, grey),
-                     labels = c(label_dot,
-                                label_dot2))+
+  geom_text_repel(
+    data = subset(data_puntos, date == "2020-03-14"),
+    nudge_x = 30,
+    segment.size  = .5,
+    segment.color = "grey50",
+    direction     = "x",
+    label = "Uncastillo",
+    fontface = 'bold',
+    point.padding = .8
+  )+
+ 
+  scale_color_manual(values = c(light_purple,dark_purple, grey),
+                     labels = c(label_dot_pas,
+                                label_dot,
+                                label_dot2
+                                ))+
   
   labs(x = "",
        y = "Cummulative COVID-19 cases in Spain",
@@ -101,9 +106,9 @@ ggplot(data = data_clean,
   
   scale_x_date(date_breaks = "1 month", date_labels =  "%b") +
   scale_y_continuous(labels = comma) +
-  tema
-
-
+  theme_light()+
+  tema 
+  
 
 
 

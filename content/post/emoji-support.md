@@ -29,7 +29,7 @@ These months also helped Marti in her quest to get Andrés into Ashtanga Yoga, a
 <hr>
 
 
-# COVID-19 tracker
+# Tracking COVID-19 along the road
 
 
 <img src = '/images/Uncastillo/chart_Uncastillo.png' style = "width:100% ; display: block;
