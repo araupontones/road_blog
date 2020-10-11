@@ -27,17 +27,23 @@ Speaking of MUVA, this is probably the best place to congratulate the team for s
 # Tracking COVID-19 along the road
 
 
-<img src="/images/Cinfaes/chart_Pinheiro.png">
+<img src="/images/Cinfaes/chart_Pinheiro.png" style = "width:100% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">
 
 
   
 # Photo album
 
 Home deilvered sardihas!!
-<img src = '/images/Cinfaes/sardinas.jpeg'>
+<img src = '/images/Cinfaes/sardinas.jpeg' style = "width:95% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">
 
 Daily dip at the local pond. 
-<img src = '/images/Cinfaes/pond.jpg'>
+<img src = '/images/Cinfaes/pond.jpg' style = "width:95% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">
 
 
 

@@ -39,11 +39,19 @@ These months also helped Marti in her quest to get Andrés into Ashtanga Yoga, a
 # Photo album
 
 It was winter when the strict lockdown began.
-<img src = '/images/Uncastillo/winter.jpg'>
+<img src = '/images/Uncastillo/winter.jpg' style = "width:95% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">
 
 More than 100 days later we were in the middle of spring...
-<img src = '/images/Uncastillo/spring.jpg'>
+<img src = '/images/Uncastillo/spring.jpg'
+style = "width:95% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">
 
 
 Thus, we decided to terminate our lease in Madrid and to start a nomad life until things get back to normal!
-<img src = '/images/Uncastillo/boxes.jpg'>
+<img src = '/images/Uncastillo/boxes.jpg'
+style = "width:95% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">
