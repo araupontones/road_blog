@@ -1,0 +1,14 @@
+---
+title: Etorraberri, Euskal Herria
+author: ''
+date: '2020-09-06'
+slug: zestoa
+image: /Zestoa/Zestoa-risco.jpg
+---
+
+
+* <b>Population:</b> 4 inhabitants
+
+* <b>Confirmed COVID-19 cases in Spain when we got there:</b> X
+
+<hr>
