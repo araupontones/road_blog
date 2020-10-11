@@ -35,5 +35,8 @@ tema = theme(
 
 casos_uncastillo = 6391
 fecha_uncastillo = ymd("2020-03-14")
+fecha_pinheiro = ymd("2020-07-04")
 
-fechas = c(fecha_uncastillo)
+
+fechas = c(fecha_uncastillo, fecha_pinheiro)
+
