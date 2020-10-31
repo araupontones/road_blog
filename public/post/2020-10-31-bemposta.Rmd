@@ -1,0 +1,36 @@
+---
+title: Bemposta, Algarve
+author: ''
+date: '2020-10-11'
+image: /Bemposta/Bemposta-profile.jpeg
+---
+
+-   <b>Population:</b> 5 inhabitants
+
+-   <b>Confirmed COVID-19 cases in Spain when we got there:</b> X
+
+
+<hr>
+
+
+
+# Tracking COVID-19 along the road
+
+
+<img src="/images/Bemposta/chart_Bemposta.png" style = "width:100% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">
+  
+# Photo album
+
+Silvio made lots of surfer friends.
+
+<img src = '/images/Bemposta/Bemposta-silvio.jpeg' style = "width:95% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">
+
+We spent a whole Saturday enjoying on this idyllic beach (it was all for us!)
+
+<img src = '/images/Bemposta/Bemposta-lostres.jpeg' style = "width:95% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">
