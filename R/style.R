@@ -20,7 +20,7 @@ tema = theme(
   
   #Text
   text = element_text(family = "Verdana"),
-  plot.caption = element_text(15),
+  plot.caption = element_markdown(size = 10),
   axis.title.y = element_text(size = 14, face = "bold", margin = margin(0,15,0,0), colour = "black"),
   axis.text = element_text(size = 12, color = "black"),
   
@@ -35,5 +35,9 @@ tema = theme(
 
 casos_uncastillo = 6391
 fecha_uncastillo = ymd("2020-03-14")
+fecha_pinheiro = ymd("2020-07-04")
+fecha_zestoa = ymd("2020-09-06")
 
-fechas = c(fecha_uncastillo)
+
+fechas = c(fecha_uncastillo, fecha_pinheiro, fecha_zestoa)
+
