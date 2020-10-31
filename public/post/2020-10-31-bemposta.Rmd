@@ -21,6 +21,7 @@ Workwise, this stage was all about surveys. Andrés started the implementation o
 On the other hand, Marti got started with the fieldwork phase (remotely this time!) for the mixed-methods evaluation of a COVID-19 Cash Transfer programme in informal settlements in Kenya. The study aims to understand the impact of the pandemic on households' nutrition levels, access to
 health services, and the use of negative coping strategies, as well as to assess whether this emergency response cash transfer may have an effect on those variables. 
 
+
 # Tracking COVID-19 along the road
 
 

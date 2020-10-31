@@ -96,7 +96,7 @@ chart_for_blog =
 
   geom_text_repel(
     data = subset(data_puntos, date %in% fechas),
-    aes(label = c("Uncastillo", "Cinfaes", "Zestoa")),
+    aes(label = c("Uncastillo", "Cinfaes", "Etorraberri")),
     nudge_x = 30,
     nudge_y = -15000,
     segment.size  = .5,
