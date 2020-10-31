@@ -7,12 +7,19 @@ image: /Bemposta/Bemposta-profile.jpeg
 
 -   <b>Population:</b> 5 inhabitants
 
--   <b>Confirmed COVID-19 cases in Spain when we got there:</b> X
+-   <b>Confirmed COVID-19 cases in Spain when we got there:</b> 861,112
 
 
 <hr>
 
+Before deciding where to go next, we mapped the places we had visited so far and realized that geographically, the route had been a little hectic. Aiming to amend this while ‘chasing the sun’ for a few more months, we headed for the Algarve, which would be our first stop on our southern route.
 
+Some friends had already raved about the area, and they were not wrong. An average temperature of 19 °C during the day and clear water (and dog friendly!) beaches felt like a dream in October. We particularly liked the far west side of the region, which is less developed urbanistically, and secluded quiet coves can be found wild among cliffs and dunes.
+
+Workwise, this stage was all about surveys. Andrés started the implementation of the third round of the [_Urban Youth Survey_](https://muvamoz.co.mz/research/?lang=en), which aims to generate a profile of young women living in urban areas in Mozambique. Andrés is particularly excited about this round because he has combined _Survey Solutions_' API with _R-Shiny_ to create an online, real-time dashboard to quality assure the data as it is being  collected. This will help field managers and enumerators on their daily work, and it will enable the leading organisation, [UN-WIDER]( https://www.wider.unu.edu/), to monitor how fieldwork is going at any time.
+
+On the other hand, Marti got started with the fieldwork phase (remotely this time!) for the mixed-methods evaluation of a COVID-19 Cash Transfer programme in informal settlements in Kenya. The study aims to understand the impact of the pandemic on households' nutrition levels, access to
+health services, and the use of negative coping strategies, as well as to assess whether this emergency response cash transfer may have an effect on those variables. 
 
 # Tracking COVID-19 along the road
 
@@ -21,6 +28,7 @@ image: /Bemposta/Bemposta-profile.jpeg
   margin-left: auto;
   margin-right: auto; !important; ">
   
+
 # Photo album
 
 Silvio made lots of surfer friends.
@@ -29,7 +37,8 @@ Silvio made lots of surfer friends.
   margin-left: auto;
   margin-right: auto; !important; ">
 
-We spent a whole Saturday enjoying on this idyllic beach (it was all for us!)
+
+We spent a whole Saturday enjoying this idyllic beach (it was all for us!)
 
 <img src = '/images/Bemposta/Bemposta-lostres.jpeg' style = "width:95% ; display: block;
   margin-left: auto;
