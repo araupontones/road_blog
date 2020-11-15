@@ -1,7 +1,7 @@
 ---
 title: Caños de Meca, Andalucía
 author: ''
-date: '2020-11-15'
+date: '2020-10-25'
 
 image: /Meca/Meca-profile.jpg
 ---
@@ -13,6 +13,11 @@ image: /Meca/Meca-profile.jpg
 
 <hr>
 
+Just a few days into our Algarve stage, Portugal declared what is known as ‘State of Calamity’, prompted by the steep surge in Covid-19 cases in the country. A similar direction was hinted by Spain, where talks about new upcoming lockdown measures started to spread quickly. Wanting to make sure we made it back into the country before getting ‘stuck’ on the other side of the border, we headed to Caños de Meca, Cádiz, on October 25th, 2020. 
+
+In particular, we stayed by Trafalgar Cape, which receives this name because it was the scene of the battle of Trafalgar between the United Kingdom and the Kingdom of Spain in 1805. Apart from its incredible sunsets, the cape is also highly interesting because it marks the north-western end of the Strait of Gibraltar, a 13 kilometres-wide strait which connects the Atlantic Ocean to the Mediterranean Sea and separates the Iberian Peninsula in Europe from Morocco in Africa.
+
+During our time in Cádiz, Marti began providing data analytics support to the Argentinian programme [_El Futuro está en el Monte_](https://elfuturoestaenelmonte.org/#/), which sponsors the development of business models in the Gran Chaco region aimed to promote sustainable, competitive and inclusive development, through the enhancement of natural and cultural local capital. 
 
 
 # Tracking COVID-19 along the road
@@ -33,7 +38,7 @@ Andrés and the cape's lighthouse.
   margin-right: auto; !important; ">
 
 
-Three countries in one picture: Spain, UK and Morroco.
+Three countries in one picture: Spain, UK ,and Morocco.
 
 <img src = '/images/Meca/Meca-gibraltar.jpg' style = "width:95% ; display: block;
   margin-left: auto;
