@@ -1,0 +1,40 @@
+---
+title: Caños de Meca, Andalucía
+author: ''
+date: '2020-11-15'
+
+image: /Meca/Meca-profile.jpg
+---
+
+-   <b>Population:</b> 295 inhabitants
+
+-   <b>Confirmed COVID-19 cases in Spain when we got there:</b> 1,458,591
+
+
+<hr>
+
+
+
+# Tracking COVID-19 along the road
+
+
+<img src="/images/Meca/chart_Canos de Meca.png" style = "width:100% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">
+  
+  
+# Photo album
+
+
+Andrés and the cape's lighthouse.
+
+<img src = '/images/Meca/Mega-faro.jpg' style = "width:95% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">
+
+
+Three countries in one picture: Spain, UK and Morroco.
+
+<img src = '/images/Meca/Meca-gibraltar.jpg' style = "width:95% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">
