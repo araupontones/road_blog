@@ -17,7 +17,7 @@ Just a few days into our Algarve stage, Portugal declared what is known as ‘St
 
 In particular, we stayed by Trafalgar Cape, which receives this name because it was the scene of the battle of Trafalgar between the United Kingdom and the Kingdom of Spain in 1805. Apart from its incredible sunsets, the cape is also highly interesting because it marks the north-western end of the Strait of Gibraltar, a 13 kilometres-wide strait which connects the Atlantic Ocean to the Mediterranean Sea and separates the Iberian Peninsula in Europe from Morocco in Africa.
 
-During our time in Cádiz, Marti began providing data analytics support to the Argentinian programme [_El Futuro está en el Monte_](https://elfuturoestaenelmonte.org/#/), which sponsors the development of business models in the Gran Chaco region aimed to promote sustainable, competitive and inclusive development, through the enhancement of natural and cultural local capital. 
+During our time in Cádiz, Marti began providing data analytics support to the Argentinian programme [_El Futuro está en el Monte_](https://elfuturoestaenelmonte.org/#/), which sponsors the development of business models in the Gran Chaco region aimed to promote sustainable, competitive and inclusive development, through the enhancement of natural and cultural local capital. Andrés spent his time analyzing and visualizing the results of [IOM-X's](https://www.iom.int/iom-x) _KAP baseline survey_, which assesses the Knowledge, Attitudes, and Practices towards safe migration of young people in the Gambia. The findings will help to inform the design of the [_WAKA Well_](https://wakawell.info/en/home/#.X7FJu2hKiUk) campaign activities in the country.
 
 
 # Tracking COVID-19 along the road
