@@ -1,0 +1,47 @@
+---
+title: Menorca, Baleares
+author: ''
+date: '2021-05-15'
+
+
+image: /Menorca/Menorca-profile.jpg
+---
+
+
+
+``` {r message = F, echo = F, warning = F}
+library(glue)
+photo <- function(file_photo){
+  
+  
+  glue('<img src="/images/{file_photo}" style = "width:100% ; display: block;
+  margin-left: auto;
+  margin-right: auto; !important; ">')
+  
+}
+
+```
+
+And May 9th came along, and with it, the end of the State of Alarm. Cross-region mobility was restored, and we decided to continue with the original south --> east route, which we had to stop when we were in Andalucía. On May 9th, 2021, we entered Menorca by ferry. 
+
+
+Menorca is a 47km long island located in the Mediterranean Sea that belongs to the Balearic Islands archipelago. It is a quiet and relaxed place, even more so now that national and international tourism has been barely restored. We enjoyed our hikes through the [Camí de Cavalls](https://www.descobreixmenorca.com/en/cami-de-cavalls-3/_) and the numerous pinewoods, as well as its turquoise waters often visited by jellyfish!
+
+
+While eating sobrasada and ensaimadas Marti finalised the Annual Progress MEL report for [UK PACT](https://www.ukpact.co.uk/), which supports countries that strive to overcome barriers to clean growth and have high emissions reduction potential to accelerate their climate change mitigation efforts. Andres worked on an extensive revision of the data strategy that informs the Monitoring, Reporting and Verification (MRV) framework of [Beyond the Grid Fund for Zambia](https://www.bgfz.org/), a programme that aims to increase energy access and improve the livelihoods of rural population in Zambia.
+
+
+
+# Tracking COVID-19 along the road
+
+
+  
+
+
+`r photo("Menorca/chart_Menorca.png")`
+
+# Photo album
+
+`r photo("Menorca/menorca_1.jpg")`
+
+`r photo("Menorca/menorca_2.jpg")`

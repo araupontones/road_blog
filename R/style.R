@@ -39,8 +39,11 @@ fecha_pinheiro = ymd("2020-07-04")
 fecha_zestoa = ymd("2020-09-06")
 fecha_bemposta = ymd("2020-10-11")
 fecha_canos = ymd("2020-10-25")
+fecha_hortichuelas = ymd("2020-11-06")
+fecha_panticosa = ymd("2021-01-06")
 
 
 fechas = c(fecha_uncastillo, fecha_pinheiro, fecha_zestoa,
-           fecha_bemposta, fecha_canos)
+           fecha_bemposta, fecha_canos, fecha_hortichuelas,
+           fecha_panticosa)
 
